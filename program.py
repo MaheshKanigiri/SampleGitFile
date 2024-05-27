@@ -27,5 +27,8 @@ def goodbye():
 def delCommit():
     print("I'll be deleted soon!")
 
+def delCommitNow():
+    print("I'll be deleted Now!")
+
 if __name__ == "__main__":
     main()
