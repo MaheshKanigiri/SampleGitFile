@@ -24,5 +24,8 @@ def greet():
 def goodbye():
     print("Goodbye, User!")
 
+def delCommit():
+    print("I'll be deleted soon!")
+
 if __name__ == "__main__":
     main()
